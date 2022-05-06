@@ -66,6 +66,6 @@
 
 <br>
 
-![result.png](./result.png)
+![result.png](./result.jpg)
 
 <br><br>
