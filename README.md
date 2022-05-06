@@ -5,18 +5,18 @@
 <br>
 
 
-<font size=6>  🌌 **Edge Guided Learning for Image Super-resolution with Realistic Textures**</font>
+# 🌌 **Edge Guided Learning for Image Super-resolution with Realistic Textures** 
 <br>
 
 ***
 
 <br>
 
-<font size=4> 🧊 &nbsp;&nbsp;**Code for our IEEE WCCI 2022 paper Edge Guided Learning for Image Super-resolution with Realistic Textures**</font>
+### **Code for our IEEE WCCI 2022 paper Edge Guided Learning for Image Super-resolution with Realistic Textures**
 
 <br>
 
-<font size=5> 🍅 &nbsp;&nbsp;**Run**</font>
+## 🍅 &nbsp;&nbsp;**Run**
 ***
 <br>
 
@@ -35,7 +35,7 @@
 
 <br>
 
-<font size=5> 🍅 &nbsp;&nbsp;**Requirement**</font>
+## 🍅 &nbsp;&nbsp;**Requirement**
 ***
 <br>
 
@@ -43,7 +43,7 @@
 
 <br>
 
-<font size=5> 🍅 &nbsp;&nbsp;**Citing**</font>
+## 🍅 &nbsp;&nbsp;**Citing**
 ***
 <br>
 
@@ -64,7 +64,7 @@
 
 <br><br>
 
-<font size=4> 🍅 &nbsp;&nbsp;**Example**</font>
+## 🍅 &nbsp;&nbsp;**Example**
 ***
 <br>
 
