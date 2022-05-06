@@ -8,8 +8,6 @@
 # 🌌 **Edge Guided Learning for Image Super-resolution with Realistic Textures** 
 <br>
 
-***
-
 <br>
 
 ### **Code for our IEEE WCCI 2022 paper Edge Guided Learning for Image Super-resolution with Realistic Textures**
@@ -17,7 +15,7 @@
 <br>
 
 ## 🍅 &nbsp;&nbsp;**Run**
-***
+
 <br>
 
 <font size=3> The pretrained models and test codes are uploaded, now you can run test.py to get results in the challenge. Just like:</font>
@@ -36,7 +34,7 @@
 <br>
 
 ## 🍅 &nbsp;&nbsp;**Requirement**
-***
+
 <br>
 
 <font size=3> The code was tested on python3.9, linux.</font>
@@ -44,7 +42,7 @@
 <br>
 
 ## 🍅 &nbsp;&nbsp;**Citing**
-***
+
 <br>
 
 <font size=3> The code is free for academic/research purpose. Please kindly cite our work in your publications if it helps your research.</font>
@@ -65,7 +63,7 @@
 <br><br>
 
 ## 🍅 &nbsp;&nbsp;**Example**
-***
+
 <br>
 
 ![result.png](./result.png)
