@@ -67,31 +67,31 @@
 <br>
 
 <center class="half">
-  <img src="./testimage/8023x4.png" width="300"/>
-  <img src="./outputimage/8023.png" width="300"/>&nbsp;&nbsp;
+  <img src="./testimage/8023x4.png" width="200"/>
+  <img src="./outputimage/8023.png" width="200"/>&nbsp;&nbsp;
 </center>
 
 <center class="half">
-  <img src="./testimage/baboonx4.png" width="300"/>
-  <img src="./outputimage/baboon.png" width="300"/>&nbsp;&nbsp;
+  <img src="./testimage/baboonx4.png" width="200"/>
+  <img src="./outputimage/baboon.png" width="200"/>&nbsp;&nbsp;
 </center>
 <center class="half">
-  <img src="./testimage/coastguardx4.png" width="300"/>
-  <img src="./outputimage/coastguard.png" width="300"/>&nbsp;&nbsp;
+  <img src="./testimage/coastguardx4.png" width="200"/>
+  <img src="./outputimage/coastguard.png" width="200"/>&nbsp;&nbsp;
 </center>
 <center class="half">
-  <img src="./testimage/comicx4.png" width="300"/>
-  <img src="./outputimage/comic.png" width="300"/>&nbsp;&nbsp;
-</center>
-
-<center class="half">
-  <img src="./testimage/MiraiSanx4.png" width="300"/>
-  <img src="./outputimage/MiraiSan.png" width="300"/>&nbsp;&nbsp;
+  <img src="./testimage/comicx4.png" width="200"/>
+  <img src="./outputimage/comic.png" width="200"/>&nbsp;&nbsp;
 </center>
 
 <center class="half">
-  <img src="./testimage/womanx4.png" width="300"/>
-  <img src="./outputimage/woman.png" width="300"/>&nbsp;&nbsp;
+  <img src="./testimage/MiraiSanx4.png" width="200"/>
+  <img src="./outputimage/MiraiSan.png" width="200"/>&nbsp;&nbsp;
+</center>
+
+<center class="half">
+  <img src="./testimage/womanx4.png" width="200"/>
+  <img src="./outputimage/woman.png" width="200"/>&nbsp;&nbsp;
 </center>
 
 <br><br>
