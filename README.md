@@ -58,15 +58,6 @@
   year={2022}
 }
 
-@inproceedings{li2022edge,
-  title={Edge Guided Learning for Image Super-resolution with Realistic Textures},
-  author={Li, Zhan and Zhong, Ziyi and Chen, Zhitao and Yao, Gengqi and Chen, Xi and Huang, Weijian},
-  booktitle={2022 International Joint Conference on Neural Networks (IJCNN)},
-  pages={1--8},
-  year={2022},
-  organization={IEEE}
-}
-
 ```
 <br><br>
 
